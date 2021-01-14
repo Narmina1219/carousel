@@ -1,0 +1,25 @@
+.bg-dark{
+    background-color: #999fa5 !important;
+}
+h1{
+    text-align: center;
+}
+.col-lg-4{
+    text-align: center;
+    margin-top: 1.5rem;
+}
+.img-fluid{
+    width: 500px;
+    height: 400px;
+}
+.featurette-heading{
+    margin-top: 7rem;
+    font-size: 50px;
+}
+hr{
+    margin: 5rem;
+}
+footer{
+    width: 100%;
+    margin-top: 5px !important;
+}
